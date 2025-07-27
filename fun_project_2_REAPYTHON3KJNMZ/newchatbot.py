@@ -43,7 +43,7 @@ user_input_api_key = st.sidebar.text_input(
 )
 
 # --- Gunakan API Key dari input atau default ---
-api_key = user_input_api_key or os.getenv("OPENROUTER_API_KEY") or "sk-or-your-default-key-here"
+api_key = user_input_api_key or os.getenv("OPENROUTER_API_KEY") or "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"
 
 # --- Inisialisasi sesi pesan ---
 if "messages" not in st.session_state:
