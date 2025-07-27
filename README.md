@@ -1,6 +1,7 @@
 Salsa's AI Chatbot Demo
 
 Chatbot Demo using Streamlit to enrich your days with fun informations from AI Model.
+Deployed Version : https://salsa-ai-chatbot.streamlit.app/
 <img width="1366" height="724" alt="image" src="https://github.com/user-attachments/assets/94fcf062-adaa-46cf-99aa-f43db278d056" />
 
 To read the code in newchatbot.py and run it with Streamlit, follow these steps:
